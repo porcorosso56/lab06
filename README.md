@@ -1,5 +1,6 @@
 ## Laboratory work IV
 [![Build Status](https://travis-ci.org/porcorosso56/lab04.svg?branch=master)](https://travis-ci.org/porcorosso56/lab04)
+
 Данная лабораторная работа посвещена изучению систем непрерывной интеграции на примере сервиса **Travis CI**
 
 ```ShellSession
